@@ -64,13 +64,15 @@ I'm **Umesh Kumar Meghwal**, a BCA student and full-stack developer who enjoys b
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umesh-kumar-meghwal&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=umesh-kumar-meghwal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umesh-kumar-meghwal&layout=compact&theme=transparent&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umesh-kumar-meghwal&layout=compact&hide_border=true" width="41%" />
 
 </div>
 
